@@ -68,13 +68,18 @@ Based on various meteorological surveys and people's styles, the service provide
 - yr
 - holiday
 - temp
+- workingday
 - windspeed
-- season_summer
+- season_fall
 - season_winter
+- mnth_mar
+- mnth_apr
+- mnth_jun
 - mnth_sep
 - mnth_oct
 - weathersit_Mist_Cloudy
 - weathersit_LightSnow_LightRain
+
   
 ## Technologies Used
 - Numpy - version '2.0.2'
